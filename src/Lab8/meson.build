@@ -1,4 +1,4 @@
-myproject_src = files([
+Lab8_src = files([
     'main.cpp'
 ])
 
